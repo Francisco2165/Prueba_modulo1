@@ -1,0 +1,27 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.hero {
+  min-height: 100vh; 
+  display: flex;
+  align-items: center; 
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+}
+
+.hero img {
+  max-width: 100%;
+  height: auto;
+  padding: 5px;
+}
+  
+  .navbar img {
+    width: 60px;
+  }
+
+  header img {
+    width: 300px;
+  }
