@@ -11,7 +11,7 @@
 
 [commit realizado](https://github.com/matitiz/Prueba-1/compare/main...jara30-ch:fork1:main)
 
-[imagen de commit](/assets/Imgs/fork_zamora.jpg)
+![imagen de commit](Imgs/fork_zamora.jpg)
 
 ## Fork a Dani Elizondo
 
@@ -19,5 +19,5 @@
 
 [commit realizado](https://github.com/Danipazelizondo/danipazelizondo.github.io/compare/main...jara30-ch:danipazelizondo.github.io:main)
 
-[imagen de commit](/assets/Imgs/fork_dani.jpg)
+![imagen de commit](Imgs/fork_dani.jpg)
 
